@@ -1,0 +1,90 @@
+.body {
+    background-color: #f24c0a;
+  }
+
+.cards{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display: flex;
+}
+
+/* .cards2{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+} */
+
+.Logo{
+    border-radius: 200px;
+    margin-right: auto;
+    
+}
+
+.navbar{
+    background-color: #deab50;
+}
+
+.custom-btn {
+    background-color: black;
+    color: white;
+}
+
+.loginbtn{
+    background-color: black;
+    color: white;
+}
+
+.regbtn{
+    background-color: black;
+    color: white;
+}
+
+.adminbtns{
+    background-color: black;
+    color: white;
+}
+
+.body.style {
+   background-color: aqua; 
+}
+
+#adtocart{
+    border-radius: 10%;
+}
+
+
+.home:hover {
+    color: red;
+  }
+.home{
+    color: aliceblue;
+}
+.freedel{
+    color: aliceblue;
+    margin-top: 2%;
+    
+}
+
+
+.terms:hover {
+    color: red;
+  }
+.terms{
+    color: aliceblue;
+}
+
+.contact:hover {
+    color: red;
+  }
+.contact{
+    color: aliceblue;
+}
+
+.about:hover {
+    color: red;
+  }
+.about{
+    color: aliceblue;
+}
+
+.guy{
+    margin-top: 5%;
+}
